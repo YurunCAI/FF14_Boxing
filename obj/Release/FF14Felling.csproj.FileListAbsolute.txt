@@ -1,0 +1,10 @@
+C:\Users\james\source\repos\FF14Felling\bin\Release\FF14Felling.exe.config
+C:\Users\james\source\repos\FF14Felling\bin\Release\FF14Felling.exe
+C:\Users\james\source\repos\FF14Felling\bin\Release\FF14Felling.pdb
+C:\Users\james\source\repos\FF14Felling\obj\Release\FF14Felling.csprojAssemblyReference.cache
+C:\Users\james\source\repos\FF14Felling\obj\Release\FF14Felling.Form1.resources
+C:\Users\james\source\repos\FF14Felling\obj\Release\FF14Felling.Properties.Resources.resources
+C:\Users\james\source\repos\FF14Felling\obj\Release\FF14Felling.csproj.GenerateResource.cache
+C:\Users\james\source\repos\FF14Felling\obj\Release\FF14Felling.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\FF14Felling\obj\Release\FF14Felling.exe
+C:\Users\james\source\repos\FF14Felling\obj\Release\FF14Felling.pdb
